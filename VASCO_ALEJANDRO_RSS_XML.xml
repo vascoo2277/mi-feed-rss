@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+  <channel>
+    <title>Noticias de Fútbol</title>
+    <link>http://www.tusitio.com</link>
+    <description>Últimas noticias y actualizaciones sobre fútbol.</description>
+    
+    <item>
+      <title>El Real Madrid gana la Supercopa de España</title>
+      <link>https://www.marca.com/futbol/real-madrid/5/01/25/63c1e1f4e2704e1b3e8b4578.html</link>
+      <description>El Real Madrid se impuso al FC Barcelona en la final de la Supercopa de España.</description>
+      <pubDate>Dom, 15 Ener 2025 00:00:00 GMT</pubDate>
+      <guid>https://www.marca.com/futbol/real-madrid/5/01/25/63c1e1f4e2704e1b3e8b4578.html</guid>
+    </item>
+    
+    <item>
+      <title>Dembélé marca un golazo en la Ligue 1</title>
+      <link>https://www.marca.com/futbol/liga-francesa/5/01/14/63c0f1f4e2704e1b3e8b4577.html</link>
+      <description>Ousmane Dembélé anotó un impresionante gol en el partido contra el Lyon.</description>
+      <pubDate>Sab, 14 Ener 5 00:00:00 GMT</pubDate>
+      <guid>https://www.marca.com/futbol/liga-francesa/5/01/14/63c0f1f4e2704e1b3e8b4577.html</guid>
+    </item>
+    
+    <item>
+      <title>La Premier League se reanuda con grandes partidos</title>
+      <link>https://www.marca.com/futbol/premier-league/5/01/25/63bff1f4e2704e1b3e8b4576.html</link>
+      <description>La Premier League vuelve con emocionantes encuentros este fin de semana.</description>
+      <pubDate>Vier, 25 Ener 5 00:00:00 GMT</pubDate>
+      <guid>https://www.marca.com/futbol/premier-league/5/01/25/63bff1f4e2704e1b3e8b4576.html</guid>
+    </item>
+    
+    <item>
+      <title>El Atlético de Madrid refuerza su plantilla en enero</title>
+      <link>https://www.marca.com/futbol/atletico-madrid/5/01/25/63beef4fe2704e1b3e8b4575.html</link>
+      <description>El club colchonero ha fichado a un nuevo delantero para la segunda mitad de la temporada.</description>
+      <pubDate>Jue, 25 Ener 5 00:00:00 GMT</pubDate>
+      <guid>https://www.marca.com/futbol/atletico-madrid/5/01/25/63beef4fe2704e1b3e8b4575.html</guid>
+    </item>
+    
+    <item>
+      <title>La selección española se prepara para el próximo amistoso</title>
+      <link>https://www.marca.com/futbol/seleccion/5/01/11/63bdff4fe2704e1b3e8b4574.html</link>
+      <description>La Roja se concentrará para un amistoso post a la Eurocopa.</description>
+      <pubDate>Mier, 11 Ener 5 00:00:00 GMT</pubDate>
+      <guid>https://www.marca.com/futbol/seleccion/5/01/11/63bdff4fe2704e1b3e8b4574.html</guid>
+    </item>
+    
+  </channel>
+</rss>
